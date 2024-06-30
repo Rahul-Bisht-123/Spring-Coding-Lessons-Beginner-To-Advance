@@ -1,0 +1,26 @@
+package com.rb.h2demo.service;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.rb.h2demo.model.User;
+import com.rb.h2demo.repo.UserRepo;
+
+@Service
+public class UserService {
+
+	@Autowired
+	UserRepo userRepo;
+	
+	
+	public List<User> findAll() {
+		return userRepo.findAll();
+	}
+	
+	
+	public User findById(int userId) {
+		return userRepo.findAllById(userId);
+	}
+}

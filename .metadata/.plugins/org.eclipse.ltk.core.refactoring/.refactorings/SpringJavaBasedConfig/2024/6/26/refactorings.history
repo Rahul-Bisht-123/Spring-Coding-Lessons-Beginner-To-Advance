@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.Rb.SrpingJavaBasedConfig&apos; to &apos;com.Rb.SpringJavaBasedConfig&apos;&#x0A;- Original project: &apos;SpringJavaBasedConfig&apos;&#x0A;- Original element: &apos;SpringJavaBasedConfig/src/main/java/com.Rb.SrpingJavaBasedConfig&apos;&#x0A;- Renamed element: &apos;SpringJavaBasedConfig/src/main/java/com.Rb.SpringJavaBasedConfig&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.Rb.SrpingJavaBasedConfig&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.Rb.SrpingJavaBasedConfig" name="com.Rb.SpringJavaBasedConfig" qualified="false" references="true" stamp="1719160143389" textual="false" version="1.0"/>
+</session>

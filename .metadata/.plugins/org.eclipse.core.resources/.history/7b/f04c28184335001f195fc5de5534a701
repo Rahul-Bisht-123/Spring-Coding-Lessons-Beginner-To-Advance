@@ -1,0 +1,5 @@
+package com.rb.h2demo.repo;
+
+public interface UserRepo {
+
+}

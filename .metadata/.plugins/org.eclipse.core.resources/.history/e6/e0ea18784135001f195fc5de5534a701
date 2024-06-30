@@ -1,0 +1,6 @@
+package com.rb.h2demo.model;
+
+public class User {
+
+	private int userid;
+}
